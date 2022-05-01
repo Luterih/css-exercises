@@ -16,20 +16,6 @@ body {
 
 }
 
-/*
-.images {
-  display: flex;
-  gap: 52px;
-  justify-content: center;
-}
-
-.description {
-  display: flex;
-  gap: 52px;
-  justify-content: center;
-}
-*/
-
 .content {
   display: flex;
   gap: 52px;
